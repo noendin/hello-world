@@ -17,9 +17,12 @@ This is my hobby Open Source project to learn about
   * Gulp ? 
   * Live code editing
  * Nodepack Build Tools ?
-  * 
+  * Test Runner ?
+ * Infrastructure Definition
+  * TravisCI Jobs and Tasks - where is the definitions of the pipeline under SCM ? another repo / project  ??
  * Statis Analysis
   * ESLint
+  * Find Bugs ??
 * Docker Hub ( Docker Container Repository )
 * AWS EC2 ( Docker Engine )
  * Looking for alternatice free resource to host running Docker Containers ( that isn't limited by time )
