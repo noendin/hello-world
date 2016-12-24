@@ -25,4 +25,4 @@ This is my hobby Open Source project to learn about
   * Find Bugs ??
 * Docker Hub ( Docker Container Repository )
 * AWS EC2 ( Docker Engine )
- * Looking for alternatice free resource to host running Docker Containers ( that isn't limited by time )
+ * Looking for alternative free resource to host running Docker Containers ( that isn't limited by time )
